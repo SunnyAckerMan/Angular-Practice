@@ -1,0 +1,27 @@
+.form-area {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.preview-area {
+  margin: 50px;
+  text-align: center;
+}
+
+.add-background {
+  background-color: brown;
+  padding: 10px;
+}
+
+.table-area {
+  position: absolute;
+  left: 30%;
+}
+
+h4 {
+  text-align: center;
+}
+/**.form-control.ng-touched.ng-invalid
+{
+  border: 2px solid red;
+}**/
